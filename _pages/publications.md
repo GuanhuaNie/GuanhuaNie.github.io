@@ -51,6 +51,19 @@ author_profile: true
 
 </style>
 
+## 2026
+<div class="pub-entry">
+<div class="pub-label">[J63]</div>
+<div class="pub-text">Xun Wang, Jingmian Wang, Zhuzhong Qian, Bolei Zhang. Online Adaptable Offline RL With Guidance Model. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
+</div>
+
+
+<div class="pub-entry">
+<div class="pub-label">[C121]</div>
+<div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li: Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</i>,2–7 July 2026, San Diego, USA</div>
+</div>
+
+
 ## 2025
 
 <div class="pub-entry">
@@ -101,6 +114,11 @@ author_profile: true
 <div class="pub-entry">
 <div class="pub-label">[J55]</div>
 <div class="pub-text">Xiaohang Shi, Sheng Zhang, Meizhao Liu, Lingkun Meng, Liu Wei, Yingcheng Gu, Kai Liu, Huanyu Cheng, Yu Song, Lei Tang, Andong Zhu, Ning Chen, Zhuzhong Qian. Mystique: User-Level Adaptation for Real-Time Video Analytics in Edge Networks via Meta-Rl. <i>IEEE Transactions on Mobile Computing (TMC)</i>,Vol.24(5),2025:3615-3632</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-label">[C120]</div>
+<div class="pub-text">Zezhou Wang, Yaxin Du, Xingjun Ma, Yugang Jiang, Zhuzhong Qian, Siheng Chen. Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning of Large Language Models. <i>Empirical Methods in Natural Language Processing (EMNLP 2025)</i>,5–9 November 2025, Suzhou, China</div>
 </div>
             
 <div class="pub-entry">
