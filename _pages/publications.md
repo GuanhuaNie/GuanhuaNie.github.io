@@ -54,13 +54,13 @@ author_profile: true
 ## 2026
 <div class="pub-entry">
 <div class="pub-label">[J63]</div>
-<div class="pub-text">Xun Wang, Jingmian Wang, Zhuzhong Qian, Bolei Zhang. Online Adaptable Offline RL With Guidance Model. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
+<div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li: Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
 </div>
 
 
 <div class="pub-entry">
 <div class="pub-label">[C121]</div>
-<div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li: Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</i>,2–7 July 2026, San Diego, USA</div>
+<div class="pub-text">Zezhou Wang, Ziyun Zhang, Xiaoyi Zhang, Zhuzhong Qian, Yan Lu. From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation. <i>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</i>,2–7 July 2026, San Diego, USA</div>
 </div>
 
 
