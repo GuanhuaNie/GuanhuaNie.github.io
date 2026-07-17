@@ -54,7 +54,7 @@ author_profile: true
 ## 2026
 <div class="pub-entry">
 <div class="pub-label">[J63]</div>
-<div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li: Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
+<div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li. Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
 </div>
 
 
