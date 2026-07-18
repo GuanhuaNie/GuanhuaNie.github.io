@@ -24,7 +24,9 @@
 ## 一些细节
 每次修改代码后想要预览直接bundle exec jekyll serve就行，不用bundle install
 
-但是想生成新的静态页面文件必须要每次都bundle exec jekyll build
+但是想生成新的静态页面文件必须要每次都bundle exec jekyll build，特别是bundle exec jekyll serve后可能覆盖一些配置，所以最后必须bundle exec jekyll build一次！！
+
+记得把index.html改名为index.htm。网站管理系统太久了，不认识index.html。
 
 
 
