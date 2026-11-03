@@ -57,6 +57,15 @@ author_profile: true
 <div class="pub-text">Mingyu Li, Zhuzhong Qian, Andong Zhu, Hesheng Sun, Lingkun Meng, Dongxu Wang, Xiangyu Li. Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge. <i>Computer Networks (CN)</i>,275: 111887 (2026)</div>
 </div>
 
+<div class="pub-entry">
+<div class="pub-label">[C123]</div>
+<div class="pub-text">Guanhua Nie, Zhuzhong Qian, Xudong Wang. LCORE: Cost-Effective Online Scheduling for Collaborative Rendering. <i>The 21st International Conference on Green, Pervasive, and Cloud Computing (GPC 2026)</i>, 4–6 December 2026, Nanjing, China, 2026:1-12.</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-label">[C122]</div>
+<div class="pub-text">Shulan Wang, Yingjie Zhu, Yuting Yan, Ke Cheng, Yan Chen, Sheng Zhang, Hefei Guo, Qidong Zhang, Yibo Jin, Zhuzhong Qian. Salvation Lies Within: Proactive Prefix Re-forming for LLM-based Tagging. <i>40th Conference on Neural Information Processing Systems (NeurIPS 2026)</i>,poster, Sydney, Dec 6 - 12</div>
+</div>
 
 <div class="pub-entry">
 <div class="pub-label">[C121]</div>
